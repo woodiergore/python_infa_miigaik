@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ef680e4-c7bb-4140-90b0-7b5b51b993f5" name="Changes" comment="создал новый файл">
+    <list default="true" id="3ef680e4-c7bb-4140-90b0-7b5b51b993f5" name="Changes" comment="переименовал файлы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Задание 7 и 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Задание 7 и 8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer_Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Answer_Task4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761772270563</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="задания готовы">
+      <created>1761773357508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761773357508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="переименовал файлы">
+      <created>1761773436407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761773436407</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="создал новый файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="создал новый файл" />
+    <MESSAGE value="задания готовы" />
+    <MESSAGE value="переименовал файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="переименовал файлы" />
   </component>
 </project>
