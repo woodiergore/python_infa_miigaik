@@ -22,10 +22,8 @@ print()
 print("Задание 3.")
 numbers = [1, 2, 3, 4, 5]
 
-num_quart = tuple()
-for i in range(len(numbers)):
-    i1 = numbers[i]
-    i2 = i1*i1
-    num_quart = num_quart + (i1, i2)
+num_quart = tuple((i, i**2) for i in numbers)
+quart_num = tuple((b, a) for a, b in num_quart)[::-1]
 
-print(num_quart)
+print("Промежуточный вывод: ", num_quart)
+print("Итоговый вывод: ", quart_num)
