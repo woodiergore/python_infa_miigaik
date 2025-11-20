@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ef680e4-c7bb-4140-90b0-7b5b51b993f5" name="Changes" comment="исправил косяки с файлами">
-      <change afterPath="$PROJECT_DIR$/Answer_Task5.py" afterDir="false" />
+    <list default="true" id="3ef680e4-c7bb-4140-90b0-7b5b51b993f5" name="Changes" comment="написал данные для Task5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Answer_Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Answer_Task5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1762439186701</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="написал данные для Task5">
+      <created>1763445844730</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763445844730</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +119,7 @@
     <MESSAGE value="добавил задание 3" />
     <MESSAGE value="выполнил задания 3 и 4" />
     <MESSAGE value="исправил косяки с файлами" />
-    <option name="LAST_COMMIT_MESSAGE" value="исправил косяки с файлами" />
+    <MESSAGE value="написал данные для Task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="написал данные для Task5" />
   </component>
 </project>
