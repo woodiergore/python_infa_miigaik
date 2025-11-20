@@ -22,3 +22,10 @@ print()
 print("Задание 3.")
 numbers = [1, 2, 3, 4, 5]
 
+num_quart = tuple()
+for i in range(len(numbers)):
+    i1 = numbers[i]
+    i2 = i1*i1
+    num_quart = num_quart + (i1, i2)
+
+print(num_quart)
