@@ -1,4 +1,4 @@
-print("ЗАДАНИЕ 5")
+print("ЗАДАНИЕ 1")
 n = int(input("Введите число: "))
 i = 1
 while i < 11:
@@ -8,7 +8,9 @@ print()
 for i in range(1, 11):
     print(f"{n}*{i}={n * i}")
 print(1)
-print("ЗАДАНИЕ 6")
+
+print()
+print("ЗАДАНИЕ 2")
 for i in range(11):
     print(i, end=" ")
 print()
